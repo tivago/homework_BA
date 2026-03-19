@@ -126,3 +126,5 @@
 
 <img width="951" height="391" alt="as is (2)" src="https://github.com/user-attachments/assets/c5d0c577-11c8-4f5f-8986-05435f1f326c" />
 
+
+# Карта пользовательских историй
