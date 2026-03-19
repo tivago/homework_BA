@@ -128,3 +128,6 @@
 
 
 # Карта пользовательских историй
+![USER STORY MAP](https://github.com/user-attachments/assets/57703356-4b2f-4ac6-8a87-b4f7293c23ea)
+
+# Процесс AS IS в нотации BPMN
