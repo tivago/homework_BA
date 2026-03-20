@@ -130,6 +130,10 @@
 # Карта пользовательских историй
 ![USER STORY MAP](https://github.com/user-attachments/assets/57703356-4b2f-4ac6-8a87-b4f7293c23ea)
 
+
+
 # Процесс TO BE
 <img width="1151" height="541" alt="to be drawio (1)" src="https://github.com/user-attachments/assets/5062b34d-b185-49b2-b460-af5248a1528b" />
 
+# lo-fi прототип
+![Low-Fidelity Wireframes](https://github.com/user-attachments/assets/595f2618-93b6-4594-88f0-66583331e13a)
